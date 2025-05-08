@@ -1,0 +1,7 @@
+# Ignorar dependencias pesadas y compilaciones
+node_modules/
+.next/
+out/
+.env
+.DS_Store
+*.log
